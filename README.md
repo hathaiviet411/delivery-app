@@ -15,8 +15,8 @@ This is a mobile application for ordering food and tracking delivery using a map
   1. Install Node.js and Expo CLI on your computer.
   2. Clone this repository to your local machine.
   3. Navigate to the project directory and install the dependencies:
-    `cd food-delivery-app`
-    `npm install`
+    `cd food-delivery-app`<br>
+    `npm install` or `yarn install`
 
 ## **Running the App** 
   1. Start the Expo development server:
